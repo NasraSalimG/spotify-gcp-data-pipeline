@@ -97,3 +97,4 @@ sql/analysis.sql
 ```
 <img width="1818" height="637" alt="BigQuerySQL1" src="https://github.com/user-attachments/assets/eb3c282d-891c-4ebf-9f48-551f5be3878b" />
 
+See other screenshots of queries made in BigQuery under docs/bigquery 
