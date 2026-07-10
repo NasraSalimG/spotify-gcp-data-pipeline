@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates a simple end-to-end data engineering pipeline using Python, the Spotify Web API, and Google Cloud Platform.
+This project demonstrates a simple end-to-end data engineering pipeline using Python, SQL, the Spotify Web API, and Google Cloud Platform.
 
 The pipeline extracts Spotify track data, saves it as a CSV file, uploads it to Google Cloud Storage, loads it into BigQuery, and analyzes the data using SQL.
 
